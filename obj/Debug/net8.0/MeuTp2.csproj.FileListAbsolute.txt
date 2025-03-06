@@ -1,0 +1,14 @@
+C:\Users\Leeh\source\repos\MeuTp2\bin\Debug\net8.0\MeuTp2.exe
+C:\Users\Leeh\source\repos\MeuTp2\bin\Debug\net8.0\MeuTp2.deps.json
+C:\Users\Leeh\source\repos\MeuTp2\bin\Debug\net8.0\MeuTp2.runtimeconfig.json
+C:\Users\Leeh\source\repos\MeuTp2\bin\Debug\net8.0\MeuTp2.dll
+C:\Users\Leeh\source\repos\MeuTp2\bin\Debug\net8.0\MeuTp2.pdb
+C:\Users\Leeh\source\repos\MeuTp2\obj\Debug\net8.0\MeuTp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leeh\source\repos\MeuTp2\obj\Debug\net8.0\MeuTp2.AssemblyInfoInputs.cache
+C:\Users\Leeh\source\repos\MeuTp2\obj\Debug\net8.0\MeuTp2.AssemblyInfo.cs
+C:\Users\Leeh\source\repos\MeuTp2\obj\Debug\net8.0\MeuTp2.csproj.CoreCompileInputs.cache
+C:\Users\Leeh\source\repos\MeuTp2\obj\Debug\net8.0\MeuTp2.dll
+C:\Users\Leeh\source\repos\MeuTp2\obj\Debug\net8.0\refint\MeuTp2.dll
+C:\Users\Leeh\source\repos\MeuTp2\obj\Debug\net8.0\MeuTp2.pdb
+C:\Users\Leeh\source\repos\MeuTp2\obj\Debug\net8.0\MeuTp2.genruntimeconfig.cache
+C:\Users\Leeh\source\repos\MeuTp2\obj\Debug\net8.0\ref\MeuTp2.dll
